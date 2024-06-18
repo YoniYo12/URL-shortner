@@ -1,3 +1,3 @@
 # URL Shortener Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+his Node.js Express project is a URL shortener service that allows users to shorten long URLs. It provides endpoints for creating shortened URLs and redirecting to the original URLs using MongoDB for data storage and DNS for URL validation.
